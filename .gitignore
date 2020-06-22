@@ -1,3 +1,5 @@
 .vscode
+
+## files ignored cause you anyone can run a bare cpp file with g++ and can get this
 a.out
 helloworld

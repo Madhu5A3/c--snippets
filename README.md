@@ -1,1 +1,3 @@
-# c++ snippets
+```diff
++ c++ snippets
+```
